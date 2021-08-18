@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="sqlite-jdbc-3.32.3.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/com.ibm.icu_67.1.0.v20200706-1749.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.core.commands_3.9.700.v20191217-1850.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.core.runtime_3.19.0.v20200724-1004.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.equinox.common_3.13.0.v20200828-1034.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.equinox.launcher_1.5.800.v20200727-1323.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.equinox.launcher_1.6.0.v20200915-1508.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.equinox.registry_3.9.0.v20200625-1425.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.jface.text_3.16.400.v20200807-0831.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.jface_3.21.0.v20200821-1458.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.osgi_3.16.0.v20200828-0759.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.115.0.v20200831-1002.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.text_3.10.300.v20200807-0831.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.ui.forms_3.10.0.v20200727-0948.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.ui.workbench_3.120.0.v20200829-1411.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.core.databinding.xml_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.core.databinding_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.core.java_1.9.2.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.core.lib_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.core.ui_1.10.0.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.core.xml_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.core_1.10.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.doc.user_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.layout.group_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.os.linux_1.9.2.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.os.macosx_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.os.win32_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.os_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.rcp.databinding.emf_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.rcp.databinding.xwt_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.rcp.databinding_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.rcp.doc.user_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.rcp.nebula_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.rcp.swing2swt_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.rcp.SWT_AWT_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.rcp_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.runtime.lib_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.runtime_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.swing.databinding_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.swing.doc.user_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.swing.FormLayout.lib_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.swing.FormLayout_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.swing.java6_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.swing.jsr296_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.swing.MigLayout.lib_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.swing.MigLayout_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.swing_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.swt.widgets.baseline_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.swt_1.9.1.202009181620.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jodap/eclipse/java-2020-09/eclipse/plugins/org.eclipse.wb.xwt_1.9.1.202009181620.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="swing2swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
